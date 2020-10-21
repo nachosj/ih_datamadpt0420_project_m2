@@ -106,3 +106,9 @@ venv.bak/
 # OS stuff:
 .DS_Store
 .idea
+
+
+# OTHERS
+diamond_image.gif
+.env.txt
+
